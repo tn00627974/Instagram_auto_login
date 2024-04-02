@@ -3,15 +3,16 @@
 此程式碼使用selenium自動登入ig帳號
 
 
-請確保以下已執行安裝,確保程式碼可運作:
+# 安裝所需套件
 
+請確保執行以下指令以安裝程式碼運作所需的所有套件：
 
-selenium==4.10.0
-webdriver_manager
-undetected-chromedriver
-customtkinter
-webdriver_manager
-
+```bash
+pip install selenium==4.1.0
+pip install webdriver_manager
+pip install undetected-chromedriver
+pip install customtkinter
+```
 
 初始先執行app.py
 輸入帳號 , 輸入密碼後 ,按下start bot即可
