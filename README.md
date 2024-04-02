@@ -15,5 +15,7 @@ webdriver_manager
 
 初始先執行app.py
 輸入帳號 , 輸入密碼後 ,按下start bot即可
+
+
 ![image](https://github.com/tn00627974/Instagram_auto_login/assets/139155210/19a3db7a-9888-4168-af64-8a67b829b22b)
 
